@@ -1,6 +1,6 @@
 # data-science-projects
 
-Files in this projects use pandas library as primary resource that helps to interact with tabular data. 
+Files in this project use pandas library as primary resource that helps to interact with tabular data. 
 Each file is well commented so that it is easy to find out what is happening.
 A short description of each file:
 1. createcsv.py: This file will create a dummy csv file that is used in myfunction.py
